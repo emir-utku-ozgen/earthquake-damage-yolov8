@@ -1,15 +1,12 @@
-# Sanal ortam
 myenv/
 .venv/
-
-# Veri seti klasörleri (GitHub'a gitmesin)
 data/
 maras_dataset/
-
-# Eğitim çıktıları
 runs/
 *.pt
-
-# Python çerezleri
 __pycache__/
+*.pyc
 .DS_Store
+.AppleDouble
+.LSOverride
+._*
