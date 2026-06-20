@@ -1,0 +1,15 @@
+# Sanal ortam
+myenv/
+.venv/
+
+# Veri seti klasörleri (GitHub'a gitmesin)
+data/
+maras_dataset/
+
+# Eğitim çıktıları
+runs/
+*.pt
+
+# Python çerezleri
+__pycache__/
+.DS_Store
